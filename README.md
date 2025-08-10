@@ -1,9 +1,8 @@
-# sample repo on GitHub
+#Ssample Site
+Welcome to the best repo in the world
 
-## GitHub Foundations: Git and GitHub
-In this course, you will learn how to use GitHub successfully.
+## What is the project about?
+This repository contains the sample site for the Git and GitHub course on Pluralsight.
 
-### The basics
-- Understand the use of GitHub
-- Create repositories
-- Work with Git and GitHub locally
+#Licenses You can read our license here.
+
